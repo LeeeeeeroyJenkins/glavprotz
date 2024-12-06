@@ -58,3 +58,6 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+Видео с работой файла лежит в video/
+Frontend находится в frontend/glavpro_frontend/
+Backend в backend/
